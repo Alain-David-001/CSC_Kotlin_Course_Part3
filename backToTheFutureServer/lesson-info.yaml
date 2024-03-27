@@ -1,0 +1,13 @@
+type: framework
+content:
+  - backToTheFutureServerIntroduction
+  - backToTheFutureServerHowToRun
+  - backToTheFutureServerFifo
+  - backToTheFutureServerLifo
+  - backToTheFutureServerInKotlin
+  - backToTheFutureServerAddCommands
+  - backToTheFutureServerAddCommand
+  - backToTheFutureServerGetCommand
+  - backToTheFutureServerImprovements
+is_template_based: false
+current_task: 8

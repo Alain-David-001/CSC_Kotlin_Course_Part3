@@ -1,0 +1,6 @@
+# Project exclude paths
+/.gradle/
+/backToTheFutureServer/task/build/
+/common/build/
+/common/build/classes/kotlin/jvm/main/
+/utils/build/

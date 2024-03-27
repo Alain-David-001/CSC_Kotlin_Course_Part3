@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <bytecodeTargetLevel target="17">
+      <module name="CSC_Kotlin_Course_Part3.backToTheFutureServer-task.main" target="11" />
+      <module name="CSC_Kotlin_Course_Part3.backToTheFutureServer-task.test" target="11" />
+      <module name="CSC_Kotlin_Course_Part3.duckShopServer-task.main" target="11" />
+      <module name="CSC_Kotlin_Course_Part3.duckShopServer-task.test" target="11" />
+      <module name="CSC_Kotlin_Course_Part3.FeedbackSurvey-Survey.main" target="11" />
+      <module name="CSC_Kotlin_Course_Part3.FeedbackSurvey-Survey.test" target="11" />
+      <module name="CSC_Kotlin_Course_Part3.introduction-task.main" target="11" />
+      <module name="CSC_Kotlin_Course_Part3.introduction-task.test" target="11" />
+      <module name="CSC_Kotlin_Course_Part3.oldSchoolServer-task.main" target="11" />
+      <module name="CSC_Kotlin_Course_Part3.oldSchoolServer-task.test" target="11" />
+      <module name="CSC_Kotlin_Course_Part3.utils.main" target="11" />
+      <module name="CSC_Kotlin_Course_Part3.utils.test" target="11" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

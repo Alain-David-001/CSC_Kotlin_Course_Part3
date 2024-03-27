@@ -1,0 +1,10 @@
+type: theory
+custom_name: Kotlin Onboarding - Welcome!
+files:
+  - name: src/main/kotlin/org/jetbrains/kotlin/course/Main.kt
+    visible: true
+    encrypted_text: wV5cuDlSd17mQgD+GgGeCSA9kS6bmSSdqJSPg8uaFl1EKnmUJEXRt9zj3SzYSHTRHWWotwiI22mYoW+qmgzl2X3bttWl7PsdVZQ5iRCdBHuKsahUkrgW0BqGnlNB+9Bx
+    learner_created: false
+status: Solved
+record: -1
+post_submission_on_open: true

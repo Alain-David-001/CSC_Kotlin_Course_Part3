@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="Gradle: org.jetbrains.academy.test.system:core:2.0.7" type="java-imported" external-system-id="GRADLE">
+    <properties groupId="org.jetbrains.academy.test.system" artifactId="core" version="2.0.7" />
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.academy.test.system/core/2.0.7/4c07fe9968fa82ab0f197593cebd3df7eb84f01e/core-2.0.7.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

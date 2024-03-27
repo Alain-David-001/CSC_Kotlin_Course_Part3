@@ -1,0 +1,14 @@
+<component name="libraryTable">
+  <library name="org.jetbrains.kotlin:kotlin-dom-api-compat:1.9.0" type="kotlin.js" external-system-id="GRADLE">
+    <properties groupId="org.jetbrains.kotlin" artifactId="kotlin-dom-api-compat" version="1.9.0" />
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-dom-api-compat/1.9.0/1b041c52cdffabd603a1a78305d81634509894e3/kotlin-dom-api-compat-1.9.0.klib!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-dom-api-compat/1.9.0/5b8f86fea035328fc9e8c660773037a3401ce25f/kotlin-dom-api-compat-1.9.0-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-dom-api-compat/1.9.0/11c4567fecbad0a1fc5b1936266f5f8188be8cbe/kotlin-dom-api-compat-1.9.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/CSC_Kotlin_Course_Part3.iml" filepath="$PROJECT_DIR$/.idea/modules/CSC_Kotlin_Course_Part3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/FeedbackSurvey/Survey/CSC_Kotlin_Course_Part3.FeedbackSurvey-Survey.iml" filepath="$PROJECT_DIR$/.idea/modules/FeedbackSurvey/Survey/CSC_Kotlin_Course_Part3.FeedbackSurvey-Survey.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/FeedbackSurvey/Survey/CSC_Kotlin_Course_Part3.FeedbackSurvey-Survey.main.iml" filepath="$PROJECT_DIR$/.idea/modules/FeedbackSurvey/Survey/CSC_Kotlin_Course_Part3.FeedbackSurvey-Survey.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/FeedbackSurvey/Survey/CSC_Kotlin_Course_Part3.FeedbackSurvey-Survey.test.iml" filepath="$PROJECT_DIR$/.idea/modules/FeedbackSurvey/Survey/CSC_Kotlin_Course_Part3.FeedbackSurvey-Survey.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/backToTheFutureServer/task/CSC_Kotlin_Course_Part3.backToTheFutureServer-task.iml" filepath="$PROJECT_DIR$/.idea/modules/backToTheFutureServer/task/CSC_Kotlin_Course_Part3.backToTheFutureServer-task.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/backToTheFutureServer/task/CSC_Kotlin_Course_Part3.backToTheFutureServer-task.main.iml" filepath="$PROJECT_DIR$/.idea/modules/backToTheFutureServer/task/CSC_Kotlin_Course_Part3.backToTheFutureServer-task.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/backToTheFutureServer/task/CSC_Kotlin_Course_Part3.backToTheFutureServer-task.test.iml" filepath="$PROJECT_DIR$/.idea/modules/backToTheFutureServer/task/CSC_Kotlin_Course_Part3.backToTheFutureServer-task.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/common/CSC_Kotlin_Course_Part3.common.iml" filepath="$PROJECT_DIR$/.idea/modules/common/CSC_Kotlin_Course_Part3.common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/common/CSC_Kotlin_Course_Part3.common.commonMain.iml" filepath="$PROJECT_DIR$/.idea/modules/common/CSC_Kotlin_Course_Part3.common.commonMain.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/common/CSC_Kotlin_Course_Part3.common.commonTest.iml" filepath="$PROJECT_DIR$/.idea/modules/common/CSC_Kotlin_Course_Part3.common.commonTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/common/CSC_Kotlin_Course_Part3.common.jsMain.iml" filepath="$PROJECT_DIR$/.idea/modules/common/CSC_Kotlin_Course_Part3.common.jsMain.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/common/CSC_Kotlin_Course_Part3.common.jsTest.iml" filepath="$PROJECT_DIR$/.idea/modules/common/CSC_Kotlin_Course_Part3.common.jsTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/common/CSC_Kotlin_Course_Part3.common.jvmMain.iml" filepath="$PROJECT_DIR$/.idea/modules/common/CSC_Kotlin_Course_Part3.common.jvmMain.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/common/CSC_Kotlin_Course_Part3.common.jvmTest.iml" filepath="$PROJECT_DIR$/.idea/modules/common/CSC_Kotlin_Course_Part3.common.jvmTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/duckShopServer/task/CSC_Kotlin_Course_Part3.duckShopServer-task.iml" filepath="$PROJECT_DIR$/.idea/modules/duckShopServer/task/CSC_Kotlin_Course_Part3.duckShopServer-task.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/duckShopServer/task/CSC_Kotlin_Course_Part3.duckShopServer-task.main.iml" filepath="$PROJECT_DIR$/.idea/modules/duckShopServer/task/CSC_Kotlin_Course_Part3.duckShopServer-task.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/duckShopServer/task/CSC_Kotlin_Course_Part3.duckShopServer-task.test.iml" filepath="$PROJECT_DIR$/.idea/modules/duckShopServer/task/CSC_Kotlin_Course_Part3.duckShopServer-task.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/introduction/task/CSC_Kotlin_Course_Part3.introduction-task.iml" filepath="$PROJECT_DIR$/.idea/modules/introduction/task/CSC_Kotlin_Course_Part3.introduction-task.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/introduction/task/CSC_Kotlin_Course_Part3.introduction-task.main.iml" filepath="$PROJECT_DIR$/.idea/modules/introduction/task/CSC_Kotlin_Course_Part3.introduction-task.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/introduction/task/CSC_Kotlin_Course_Part3.introduction-task.test.iml" filepath="$PROJECT_DIR$/.idea/modules/introduction/task/CSC_Kotlin_Course_Part3.introduction-task.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/CSC_Kotlin_Course_Part3.main.iml" filepath="$PROJECT_DIR$/.idea/modules/CSC_Kotlin_Course_Part3.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/oldSchoolServer/task/CSC_Kotlin_Course_Part3.oldSchoolServer-task.iml" filepath="$PROJECT_DIR$/.idea/modules/oldSchoolServer/task/CSC_Kotlin_Course_Part3.oldSchoolServer-task.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/oldSchoolServer/task/CSC_Kotlin_Course_Part3.oldSchoolServer-task.main.iml" filepath="$PROJECT_DIR$/.idea/modules/oldSchoolServer/task/CSC_Kotlin_Course_Part3.oldSchoolServer-task.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/oldSchoolServer/task/CSC_Kotlin_Course_Part3.oldSchoolServer-task.test.iml" filepath="$PROJECT_DIR$/.idea/modules/oldSchoolServer/task/CSC_Kotlin_Course_Part3.oldSchoolServer-task.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/CSC_Kotlin_Course_Part3.test.iml" filepath="$PROJECT_DIR$/.idea/modules/CSC_Kotlin_Course_Part3.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/utils/CSC_Kotlin_Course_Part3.utils.iml" filepath="$PROJECT_DIR$/.idea/modules/utils/CSC_Kotlin_Course_Part3.utils.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/utils/CSC_Kotlin_Course_Part3.utils.main.iml" filepath="$PROJECT_DIR$/.idea/modules/utils/CSC_Kotlin_Course_Part3.utils.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/utils/CSC_Kotlin_Course_Part3.utils.test.iml" filepath="$PROJECT_DIR$/.idea/modules/utils/CSC_Kotlin_Course_Part3.utils.test.iml" />
+    </modules>
+  </component>
+</project>
